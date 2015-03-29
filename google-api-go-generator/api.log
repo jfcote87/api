@@ -1,0 +1,296 @@
+2015/03/05 13:09:16 Generating API adexchangebuyer:v1.2
+2015/03/05 13:09:16 Generating API adexchangebuyer:v1.3
+2015/03/05 13:09:16 Generating API adexchangeseller:v1
+2015/03/05 13:09:16 TODO writeSchemaCode for arrays for ReportRows
+2015/03/05 13:09:16 Generating API adexchangeseller:v1.1
+2015/03/05 13:09:16 TODO writeSchemaCode for arrays for ReportRows
+2015/03/05 13:09:17 Generating API adexchangeseller:v2.0
+2015/03/05 13:09:17 TODO writeSchemaCode for arrays for ReportRows
+2015/03/05 13:09:17 Generating API admin:directory_v1
+2015/03/05 13:09:17 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:17 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:17 TODO(bradfitz): only including the first parameter in path query.
+2015/03/05 13:09:17 TODO(bradfitz): only including the first parameter in path query.
+2015/03/05 13:09:17 TODO(bradfitz): only including the first parameter in path query.
+2015/03/05 13:09:17 TODO(bradfitz): only including the first parameter in path query.
+2015/03/05 13:09:17 Generating API admin:email_migration_v2
+2015/03/05 13:09:17 Generating API admin:reports_v1
+2015/03/05 13:09:17 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:17 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:17 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:17 Generating API adsense:v1.2
+2015/03/05 13:09:17 TODO writeSchemaCode for arrays for AdsenseReportsGenerateResponseRows
+2015/03/05 13:09:17 Generating API adsense:v1.3
+2015/03/05 13:09:17 TODO writeSchemaCode for arrays for AdsenseReportsGenerateResponseRows
+2015/03/05 13:09:17 Generating API adsense:v1.4
+2015/03/05 13:09:17 TODO writeSchemaCode for arrays for AdsenseReportsGenerateResponseRows
+2015/03/05 13:09:17 Generating API adsensehost:v4.1
+2015/03/05 13:09:17 TODO writeSchemaCode for arrays for ReportRows
+2015/03/05 13:09:17 Generating API analytics:v2.4
+2015/03/05 13:09:17 Generating API analytics:v3
+2015/03/05 13:09:18 TODO writeSchemaCode for arrays for GaDataRows
+2015/03/05 13:09:18 TODO writeSchemaCode for arrays for McfDataRows
+2015/03/05 13:09:18 TODO writeSchemaCode for arrays for RealtimeDataRows
+2015/03/05 13:09:18 Generating API androidenterprise:v1
+2015/03/05 13:09:18 Generating API androidpublisher:v1
+2015/03/05 13:09:18 Generating API androidpublisher:v1.1
+2015/03/05 13:09:18 Generating API androidpublisher:v2
+2015/03/05 13:09:18 Generating API appsactivity:v1
+2015/03/05 13:09:18 Generating API appstate:v1
+2015/03/05 13:09:18 Generating API audit:v1
+2015/03/05 13:09:18 Generating API autoscaler:v1beta2
+2015/03/05 13:09:18 Generating API bigquery:v2
+2015/03/05 13:09:18 Generating API blogger:v2
+2015/03/05 13:09:18 Generating API blogger:v3
+2015/03/05 13:09:19 Generating API books:v1
+2015/03/05 13:09:19 TODO writeSchemaCode for arrays for GeolayerdataGeoBoundary
+2015/03/05 13:09:19 Generating API calendar:v3
+2015/03/05 13:09:19 Generating API civicinfo:v2
+2015/03/05 13:09:19 Generating API cloudmonitoring:v2beta2
+2015/03/05 13:09:19 Generating API compute:v1
+2015/03/05 13:09:19 Generating API container:v1beta1
+2015/03/05 13:09:19 Generating API content:v2
+2015/03/05 13:09:19 Generating API coordinate:v1
+2015/03/05 13:09:19 Generating API customsearch:v1
+2015/03/05 13:09:19 Warning: found map of arrays of type "object" which is not implemented yet.
+2015/03/05 13:09:19 TODO writeSchemaCode for arrays for ContextFacets
+2015/03/05 13:09:19 Warning: found map of arrays of type "object" which is not implemented yet.
+2015/03/05 13:09:19 Warning: found map of arrays of type "object" which is not implemented yet.
+2015/03/05 13:09:19 Warning: found map of arrays of type "object" which is not implemented yet.
+2015/03/05 13:09:19 Generating API dataflow:v1beta3
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:20 Generating API datastore:v1beta1
+2015/03/05 13:09:20 Generating API datastore:v1beta2
+2015/03/05 13:09:20 Generating API deploymentmanager:v2beta1
+2015/03/05 13:09:20 Generating API dfareporting:v1
+2015/03/05 13:09:20 Generating API dfareporting:v1.1
+2015/03/05 13:09:20 Generating API dfareporting:v1.2
+2015/03/05 13:09:20 Generating API dfareporting:v1.3
+2015/03/05 13:09:20 Generating API dfareporting:v2.0
+2015/03/05 13:09:21 Generating API discovery:v1
+2015/03/05 13:09:21 Warning: found map to type "object" which is not implemented yet.
+2015/03/05 13:09:21 Warning: found map to type "object" which is not implemented yet.
+2015/03/05 13:09:21 Warning: found map to type "object" which is not implemented yet.
+2015/03/05 13:09:21 Warning: found map to type "object" which is not implemented yet.
+2015/03/05 13:09:21 Generating API dns:v1beta1
+2015/03/05 13:09:21 Generating API doubleclickbidmanager:v1
+2015/03/05 13:09:21 Generating API doubleclicksearch:v2
+2015/03/05 13:09:21 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:21 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:21 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:21 Generating API drive:v1
+2015/03/05 13:09:21 Generating API drive:v2
+2015/03/05 13:09:21 Generating API fitness:v1
+2015/03/05 13:09:21 Generating API freebase:v1-sandbox
+2015/03/05 13:09:21 Generating API freebase:v1sandbox
+2015/03/05 13:09:21 Generating API freebase:v1
+2015/03/05 13:09:21 Generating API fusiontables:v1
+2015/03/05 13:09:21 TODO writeSchemaCode for arrays for LineCoordinates
+2015/03/05 13:09:21 TODO writeSchemaCode for arrays for PolygonCoordinates
+2015/03/05 13:09:21 TODO writeSchemaCode for arrays for SqlresponseRows
+2015/03/05 13:09:21 Generating API fusiontables:v2
+2015/03/05 13:09:21 TODO writeSchemaCode for arrays for LineCoordinates
+2015/03/05 13:09:21 TODO writeSchemaCode for arrays for PolygonCoordinates
+2015/03/05 13:09:21 TODO writeSchemaCode for arrays for SqlresponseRows
+2015/03/05 13:09:21 Generating API games:v1
+2015/03/05 13:09:21 Generating API gamesConfiguration:v1configuration
+2015/03/05 13:09:21 Generating API gamesManagement:v1management
+2015/03/05 13:09:22 Generating API gan:v1beta1
+2015/03/05 13:09:22 TODO writeSchemaCode for arrays for ReportRows
+2015/03/05 13:09:22 TODO writeSchemaCode for arrays for ReportTotals_rows
+2015/03/05 13:09:22 Generating API genomics:v1beta
+2015/03/05 13:09:22 Generating API genomics:v1beta2
+2015/03/05 13:09:22 Generating API gmail:v1
+2015/03/05 13:09:22 Generating API groupsmigration:v1
+2015/03/05 13:09:22 Generating API groupssettings:v1
+2015/03/05 13:09:22 Generating API cloudlatencytest:v2
+2015/03/05 13:09:22 Generating API dataflow:v1b4
+2015/03/05 13:09:22 Generating API pubsub:v1beta1a
+2015/03/05 13:09:22 Generating API pubsub:v1beta2
+2015/03/05 13:09:22 Generating API identitytoolkit:v3
+2015/03/05 13:09:22 Generating API licensing:v1
+2015/03/05 13:09:22 Generating API manager:v1beta2
+2015/03/05 13:09:23 Generating API mapsengine:exp2
+2015/03/05 13:09:23 TODO writeSchemaCode for arrays for Datasources
+2015/03/05 13:09:23 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:23 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:23 TODO writeSchemaCode for arrays for GeoJsonMultiLineStringCoordinates
+2015/03/05 13:09:23 TODO writeSchemaCode for arrays for GeoJsonMultiPolygonCoordinates
+2015/03/05 13:09:23 TODO writeSchemaCode for arrays for GeoJsonPolygonCoordinates
+2015/03/05 13:09:23 TODO writeSchemaCode for arrays for GeoJsonPosition
+2015/03/05 13:09:23 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:23 TODO writeSchemaCode for arrays for LatLngBox
+2015/03/05 13:09:23 TODO writeSchemaCode for arrays for MapContents
+2015/03/05 13:09:23 TODO writeSchemaCode for arrays for Tags
+2015/03/05 13:09:23 Generating API mapsengine:v1
+2015/03/05 13:09:23 TODO writeSchemaCode for arrays for Datasources
+2015/03/05 13:09:23 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:23 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:23 TODO writeSchemaCode for arrays for GeoJsonMultiLineStringCoordinates
+2015/03/05 13:09:23 TODO writeSchemaCode for arrays for GeoJsonMultiPolygonCoordinates
+2015/03/05 13:09:23 TODO writeSchemaCode for arrays for GeoJsonPolygonCoordinates
+2015/03/05 13:09:23 TODO writeSchemaCode for arrays for GeoJsonPosition
+2015/03/05 13:09:23 Warning: found map to type "any" which is not implemented yet.
+2015/03/05 13:09:23 TODO writeSchemaCode for arrays for LatLngBox
+2015/03/05 13:09:23 TODO writeSchemaCode for arrays for MapContents
+2015/03/05 13:09:23 TODO writeSchemaCode for arrays for Tags
+2015/03/05 13:09:23 Generating API mirror:v1
+2015/03/05 13:09:23 Generating API oauth2:v1
+2015/03/05 13:09:23 Generating API oauth2:v2
+2015/03/05 13:09:23 Generating API pagespeedonline:v1
+2015/03/05 13:09:23 Warning: found map to type "object" which is not implemented yet.
+2015/03/05 13:09:23 Warning: found map to type "object" which is not implemented yet.
+2015/03/05 13:09:23 Warning: found map to type "object" which is not implemented yet.
+2015/03/05 13:09:23 Warning: found map to type "object" which is not implemented yet.
+2015/03/05 13:09:23 Generating API pagespeedonline:v2
+2015/03/05 13:09:23 Warning: found map to type "object" which is not implemented yet.
+2015/03/05 13:09:23 Warning: found map to type "object" which is not implemented yet.
+2015/03/05 13:09:23 Warning: found map to type "object" which is not implemented yet.
+2015/03/05 13:09:23 Warning: found map to type "object" which is not implemented yet.
+2015/03/05 13:09:23 Warning: found map to type "object" which is not implemented yet.
+2015/03/05 13:09:23 Warning: found map to type "object" which is not implemented yet.
+2015/03/05 13:09:23 Warning: found map to type "object" which is not implemented yet.
+2015/03/05 13:09:23 Warning: found map to type "object" which is not implemented yet.
+2015/03/05 13:09:23 Generating API plus:v1
+2015/03/05 13:09:23 Generating API plusDomains:v1
+2015/03/05 13:09:23 Generating API prediction:v1.2
+2015/03/05 13:09:24 Generating API prediction:v1.3
+2015/03/05 13:09:24 Warning: found map to type "object" which is not implemented yet.
+2015/03/05 13:09:24 Warning: found map to type "number" which is not implemented yet.
+2015/03/05 13:09:24 Warning: found map to type "number" which is not implemented yet.
+2015/03/05 13:09:24 Warning: found map to type "number" which is not implemented yet.
+2015/03/05 13:09:24 Warning: found map to type "object" which is not implemented yet.
+2015/03/05 13:09:24 Warning: found map to type "object" which is not implemented yet.
+2015/03/05 13:09:24 Warning: found map to type "number" which is not implemented yet.
+2015/03/05 13:09:24 Warning: found map to type "number" which is not implemented yet.
+2015/03/05 13:09:24 Warning: found map to type "object" which is not implemented yet.
+2015/03/05 13:09:24 Warning: found map to type "number" which is not implemented yet.
+2015/03/05 13:09:24 Warning: found map to type "number" which is not implemented yet.
+2015/03/05 13:09:24 Generating API prediction:v1.4
+2015/03/05 13:09:24 Warning: found map to type "object" which is not implemented yet.
+2015/03/05 13:09:24 Warning: found map to type "number" which is not implemented yet.
+2015/03/05 13:09:24 Warning: found map to type "number" which is not implemented yet.
+2015/03/05 13:09:24 Warning: found map to type "number" which is not implemented yet.
+2015/03/05 13:09:24 Warning: found map to type "object" which is not implemented yet.
+2015/03/05 13:09:24 Warning: found map to type "object" which is not implemented yet.
+2015/03/05 13:09:24 Warning: found map to type "number" which is not implemented yet.
+2015/03/05 13:09:24 Warning: found map to type "number" which is not implemented yet.
+2015/03/05 13:09:24 Warning: found map to type "object" which is not implemented yet.
+2015/03/05 13:09:24 Warning: found map to type "number" which is not implemented yet.
+2015/03/05 13:09:24 Warning: found map to type "number" which is not implemented yet.
+2015/03/05 13:09:24 Generating API prediction:v1.5
+2015/03/05 13:09:24 Warning: found map to type "object" which is not implemented yet.
+2015/03/05 13:09:24 Warning: found map to type "number" which is not implemented yet.
+2015/03/05 13:09:24 Warning: found map to type "object" which is not implemented yet.
+2015/03/05 13:09:24 Warning: found map to type "object" which is not implemented yet.
+2015/03/05 13:09:24 Warning: found map to type "number" which is not implemented yet.
+2015/03/05 13:09:24 Warning: found map to type "number" which is not implemented yet.
+2015/03/05 13:09:24 Warning: found map to type "object" which is not implemented yet.
+2015/03/05 13:09:24 Warning: found map to type "number" which is not implemented yet.
+2015/03/05 13:09:24 Warning: found map to type "number" which is not implemented yet.
+2015/03/05 13:09:24 Warning: found map to type "number" which is not implemented yet.
+2015/03/05 13:09:24 Warning: found map to type "number" which is not implemented yet.
+2015/03/05 13:09:24 Generating API prediction:v1.6
+2015/03/05 13:09:24 Warning: found map to type "object" which is not implemented yet.
+2015/03/05 13:09:24 Warning: found map to type "object" which is not implemented yet.
+2015/03/05 13:09:24 Warning: found map to type "object" which is not implemented yet.
+2015/03/05 13:09:24 Warning: found map to type "object" which is not implemented yet.
+2015/03/05 13:09:24 Warning: found map to type "number" which is not implemented yet.
+2015/03/05 13:09:24 Warning: found map to type "number" which is not implemented yet.
+2015/03/05 13:09:24 Warning: found map to type "number" which is not implemented yet.
+2015/03/05 13:09:24 Generating API pubsub:v1beta1
+2015/03/05 13:09:24 Generating API qpxExpress:v1
+2015/03/05 13:09:24 Generating API replicapool:v1beta1
+2015/03/05 13:09:24 Generating API replicapool:v1beta2
+2015/03/05 13:09:24 Generating API replicapoolupdater:v1beta1
+2015/03/05 13:09:24 Generating API reseller:v1sandbox
+2015/03/05 13:09:24 Generating API reseller:v1
+2015/03/05 13:09:24 Generating API resourceviews:v1beta1
+2015/03/05 13:09:24 Generating API resourceviews:v1beta2
+2015/03/05 13:09:24 Warning: found map of arrays of type "integer" which is not implemented yet.
+2015/03/05 13:09:24 Warning: found map of arrays of type "integer" which is not implemented yet.
+2015/03/05 13:09:24 Warning: found map of arrays of type "integer" which is not implemented yet.
+2015/03/05 13:09:24 Warning: found map of arrays of type "integer" which is not implemented yet.
+2015/03/05 13:09:24 Generating API siteVerification:v1
+2015/03/05 13:09:24 Generating API spectrum:v1explorer
+2015/03/05 13:09:25 Generating API sqladmin:v1beta1
+2015/03/05 13:09:25 Generating API sqladmin:v1beta3
+2015/03/05 13:09:25 Generating API sqladmin:v1beta4
+2015/03/05 13:09:25 Generating API storage:v1
+2015/03/05 13:09:25 Generating API storage:v1beta1
+2015/03/05 13:09:25 Generating API storage:v1beta2
+2015/03/05 13:09:25 Generating API tagmanager:v1
+2015/03/05 13:09:25 Generating API taskqueue:v1beta1
+2015/03/05 13:09:25 Generating API taskqueue:v1beta2
+2015/03/05 13:09:25 Generating API tasks:v1
+2015/03/05 13:09:25 Generating API translate:v2
+2015/03/05 13:09:26 TODO writeSchemaCode for arrays for DetectionsResource
+2015/03/05 13:09:26 Generating API urlshortener:v1
+2015/03/05 13:09:26 Generating API webfonts:v1
+2015/03/05 13:09:26 Generating API webmasters:v3
+2015/03/05 13:09:26 Generating API youtube:v3
+2015/03/05 13:09:26 Generating API youtubeAnalytics:v1
+2015/03/05 13:09:26 TODO writeSchemaCode for arrays for ResultTableRows
+2015/03/05 13:09:26 Generating API youtubeAnalytics:v1beta1
+2015/03/05 13:09:26 TODO writeSchemaCode for arrays for ResultTableRows
